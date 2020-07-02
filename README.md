@@ -18,7 +18,9 @@ Visual Studio
 
 What is the point to build a windows app for me? just to make fun!
 
-For me it gives me positive energy to stay on track with my learning proccess to become a professional Full stack developer.
+For me it gives me positive energy to stay on track with my learning proccess to learn more and more.
+Become Professional, step by step.
+
 
 
 
