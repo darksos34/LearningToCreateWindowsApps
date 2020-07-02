@@ -161,6 +161,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\OneDrive\Bureaublad\testpic.png" />
     <Image Include="app.ico" />
   </ItemGroup>
   <ItemGroup>
